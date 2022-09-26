@@ -1,0 +1,59 @@
+
+* / % --> Multiple, Divide(quotient), Divide(remainder)
+
+	Exception: java.lang.ArithmeticException:/ by zero
+	
++ - + --> Add, Subtract, add string
+	
+	java does not support operator overloading unlike c , c++ except for one operator ( + )
+		
+		* - multiple
+		* - add string
+		* - subtract
+		
+		+ --> both operands are of same int type means then addition
+		+ --> if one operand is on String type means then concatenation
+		
+
+?: --> Conditional Operator
+	if a = 20
+		print a
+	else
+		print null
+		
+		Example
+			(condition) ? true value : false value;
+			
+			
+			
+java Structure
+		
+		class{
+		
+			method(){
+					-----------
+					}
+					
+			method(){
+					-----------
+					}
+			method(){
+					-----------
+					}
+			}
+			
+	
+	Logical AND
+		true true	true
+		false false false
+		false true	false
+		
+	Logical OR
+		true true	true true true			true
+		false false false  false false false	false
+		false true	true
+	
+		
+	
+	
+		

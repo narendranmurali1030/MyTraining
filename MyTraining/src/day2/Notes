@@ -1,0 +1,39 @@
+	
+	
+	
+	
+	IDE = Developer Tool
+		Integrated Development Environment
+		
+		Eclipse, Intellij, 
+		
+		Code, Compile and Execute
+		
+	
+		Create a Workspace
+		Create a project (eg: "MyTraining")
+		Create a package under src (eg: day1)
+		Create a class under day1 package (eg: Operators)
+		select the main method
+	
+	Operators
+		Unary Operators (will work only on single operand)
+	
+		++ - Prefix and Postfix - prefix will increment/decrement the value and then will assign. postfix first assignment is done then increment/decrement will be done
+		-- - Prefix and Postfix
+		+ - postive value
+		- - negative value
+		~ - flipping of bits is called delta operator
+		! - opposite value
+		(type)
+	
+	Shortcut
+		syso - ctrl space enter 
+		Code aligning - 
+			Ctrl + a
+			ctrl + i
+			ctrl shift f
+	
+	
+		
+	
