@@ -8,7 +8,7 @@ public class LogicalOperator {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub 
 
 		boolean value1 = true;
 		boolean value2 = false;
