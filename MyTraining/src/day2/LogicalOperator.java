@@ -13,15 +13,15 @@ public class LogicalOperator {
 		boolean value1 = true;
 		boolean value2 = false;
 
-		System.out.println(value1 && booleanOutput());
+		System.out.println(value1 & booleanOutput());
 
 		System.out.println("------------------------------------------");
 
-		System.out.println(value2 && booleanOutput());
+		System.out.println(value2 & booleanOutput());
 
 		System.out.println("------------------------------------------");
 
-		System.out.println(value1 && value2 && booleanOutput());
+		System.out.println(value1 & value2 & booleanOutput());
 
 		System.out.println("------------------------------------------");
 
