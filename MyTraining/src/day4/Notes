@@ -1,3 +1,43 @@
-
-
 Control Statements
+
+	sequentail
+	selection
+	iteration
+	transfer
+	
+If and Nested If
+
+	if(boolean_exp){
+		// statements
+	}
+	elseif(boolean_exp){
+		// statements
+	}
+	elseif(boolean_exp){
+		// statements
+	}
+	else{
+		// statements
+	}
+	
+	
+	// Nested if
+		
+		if (a > 10) {
+			
+			if (a == 200) {
+				System.out.println("a = 200");
+			}
+			else if (a > 99) {
+				System.out.println("a > 99");
+			}
+			else {
+				System.out.println("else condiiton printed");
+			}
+			
+		}
+		
+		
+		
+ternary operator - ?:
+
