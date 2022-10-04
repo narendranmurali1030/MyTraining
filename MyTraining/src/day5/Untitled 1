@@ -1,0 +1,31 @@
+ Java is a object oriented programming language
+
+Objects (are created in java virtual world (jvm))
+	any real world elements can be considered as objects
+	
+	Eg: 
+		Car will have the following
+			state/characteristrics - color, brand, speed, turnedOn --> instance variables
+			behaviour - applyBrake, StartTheEngine, doorOpen --> instance methods
+			
+	Java
+		Car
+			
+			
+			
+			
+
+Class (realtime classes or real world class)
+	is a template to build any objects in java
+	
+	
+Objects:
+		// is a instance of class
+		Any real world elements can be considered as objects. Objects comprises of characteristrics and behaviour.
+		characteristrics are nothing but instance variables
+		behaviour are nothing but instance methods. These methods changes the characteristrics of the objects.
+		
+		
+		
+		
+				
