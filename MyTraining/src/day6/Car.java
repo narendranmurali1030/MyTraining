@@ -30,6 +30,7 @@ public class Car {
 	public static void main(String[] args) {
 
 		// Create an Object
+		// creating reference for the class = creating object and calling special initiliasing method called constructor
 		// classname variablename = new constructor();
 
 		Car car1 = new Car();
