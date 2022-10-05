@@ -10,6 +10,10 @@ public class car {
 		speed = 100;
 	}
 	
+	public static void main(String[] args) {
+		new car().engineTurnOn();
+	}
+	
 	
 
 }
