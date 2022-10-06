@@ -37,9 +37,9 @@ public class Car {
 		Car car2 = new Car();
 		Car car3 = new Car();
 		Car car4 = new Car();
-		new Car();
+		new Car(); // object is created in heap but no reference
 
-		Car car5;
+		Car car5; // object reference is created and it is pointing to null object
 
 		car5 = new Car();
 
