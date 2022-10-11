@@ -36,6 +36,8 @@ public class PrimeNumbers {
 		
 		// Write a program to find all the prime numbers between two limits
 		// input int fromNumber = 2; int toNumber = 7;
+		
+		// for loop from to 
 
 	}
 
