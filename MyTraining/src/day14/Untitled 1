@@ -1,0 +1,24 @@
+		
+		
+			Inheritance
+			non private method and variables
+			overriding
+			how to do it using extends
+			diagramtic representation by creating two objects
+			constructor super() automatically called 
+			argumented constructor
+			this() should be first line to call within class then super call wont happen
+			super type one arg constructor call
+			by default super() is called when not defined
+			this is called constructor chaining
+		
+			java only supports Multilevel and multiple is not allowed (C and C++ will support mulitple and multilevel)
+		
+			method ovverrding
+			overriden method visibility change
+		
+			how to access overriding method using this.method() and super.method()
+		
+			object substitution method and variable (super method and variable will be called)
+		
+			instance of object refer and classname
