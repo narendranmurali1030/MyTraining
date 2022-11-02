@@ -1,0 +1,22 @@
+Abstract Class
+	abstract = high level about the class (unimplemented)
+	
+	
+	Applicable for Class, method 
+	
+	Abstract Method will not have implementation
+	Abstract Method should be appended with Abstract Keyword
+	If your class has any abstract method then your class also becomes abstract
+	
+	for any abstract class we cannot create or instantiate an object
+	if in the subtype we are not sure about the implementation then make the sub type also as abstract
+	
+	it is not always mandatory to have the unimplemented method to make the class as abstract
+	(without any unimplemented method , your class can be abstract)
+	
+	
+	Can abstract class have
+		constructor = are allowed
+		static method and static variable = are allowed
+		
+	
