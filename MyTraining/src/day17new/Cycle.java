@@ -8,4 +8,10 @@ public class Cycle extends Vehicle{
 		
 	}
 
+	@Override
+	public void name() {
+		System.out.println("Cycle Name");
+		
+	}
+	
 }

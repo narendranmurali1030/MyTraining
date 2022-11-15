@@ -1,6 +1,6 @@
 package day17new;
 
-public interface Travel {
+public interface Travel extends ObjectInterface {
 	
 	public void speed();
 

@@ -2,8 +2,8 @@ package day10;
 
 public class LearnStatic {
 
-	static int a = 20; // static
-	int b = 100; // instance
+	public static int a = 20; // static
+	public int b = 100; // instance
 
 	public static void sampleMethod() {
 		

@@ -7,5 +7,11 @@ public class Rabbit extends Animal{
 		System.out.println("Rabbit Speed");
 		
 	}
+	
+	@Override
+	public void name() {
+		System.out.println("Rabbit Name");
+		
+	}
 
 }

@@ -7,5 +7,11 @@ public class Flight extends Vehicle{
 		System.out.println("Flight Speed");
 		
 	}
+	
+	@Override
+	public void name() {
+		System.out.println("Flight Name");
+		
+	}
 
 }

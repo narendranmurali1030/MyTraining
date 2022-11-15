@@ -1,0 +1,41 @@
+Access Modifiers = 10-15 mins
+
+	Classes
+	Methods
+	Variables
+	Constructor
+	
+	Limiting the access 
+		
+	Types
+		Public
+		Default / no modifier / package level modifier
+		Private
+		Protected
+		
+
+Wrapper Classes = 10-15 mins
+
+
+	primitive datatype
+	
+		byte = Byte 
+		short = Short
+		int = Integer 
+		long = Long
+		
+		char = Character
+		
+		double = Double
+		float = Float
+		
+		boolean = Boolean
+		
+
+Enum = 
+	Collection of constants
+		eg) Complexity = Simple, Medium, Hard
+			Solar System = Jupiter Mars Mercury
+		
+	
+		
