@@ -1,0 +1,42 @@
+Exception
+	java method throws an exception if they fail for some reasons
+	Exceptions are a more robust and cleaner technique for dealing with errros
+	control returns immediately to the appropriate exception handlers
+	recoverable
+	
+Errors
+	Unrecoverable	
+
+	
+How to handle exception (Blocks)
+	Try = code try / execute
+	Catch = exceptions are catched here
+	Finally = finally this gets executed at last / finally
+	
+Note: All exceptions are java classes
+
+
+Can we write multiple catch blocks ?
+Hierarchy of exceptions?
+	Throwable
+	Error and Exception
+	
+Examples
+	Errors
+		outofmmemoryerror
+		internalerror
+		
+	Checked Exceptions
+		malformedurlexception, illegalaccessexception, classnotfoundexception
+	
+	Runtime Exceptions
+		arraysindexoutofboundexception, arithmeticexception, nullpointerexception
+		
+What is throws ? when a method throws a exception we need to catch.. surround with try catch or rethrow it
+returns in try catch block ? how it works ? (Note return is the last line of code)
+	returns will end the execution of that method and rest of the lines of code would not get executed except finally block
+can we throw multiple exceptions to a method ? Yes we can have multiple exception in the method as throws
+Can we rethrow another exception within catch block ? Yes its allowed
+
+
+
