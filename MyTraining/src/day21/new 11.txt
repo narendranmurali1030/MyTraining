@@ -1,0 +1,24 @@
+
+
+Collections
+
+	array => Class, non growable or length is fixed, Single / Multi Dimension
+	Collections => Interface , growable or not of fixed length, Single Dimension only
+	
+	List (I)
+		implementation class ArrayList (C)
+		coming from java.util
+		it will allow duplicates
+		size is dynamically growable
+		FIFO, insertion order will be maintained by default
+		index starts from 0
+		
+	Set (I)
+		
+	
+	Map(I)
+	
+Hierarchy
+	Refer Excel Sheet
+	
+	
